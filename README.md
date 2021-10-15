@@ -12,3 +12,4 @@ So guys we have to :
 - [ ] finish our SAE 1.05 web site
 - [ ] do our SAE 1.06 web site
 - [ ] prepare our SAE 1.05 oral
+- [ ] send the work on the second SAE
