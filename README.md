@@ -1,4 +1,4 @@
-# Ce truc est GENIAL (enfin je crois)
+# CThis things is crazy (well, I believe)
 
 Hello, it's me! <br/>
 ![tortue](https://user-images.githubusercontent.com/92148602/137504458-6b04b775-c252-4d5f-acba-46c9e3a480dc.png) 
