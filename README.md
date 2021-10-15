@@ -9,5 +9,5 @@ Bonjour, ça c'est moi : <br/>
 [This is my favorite web site](https://phyz.alwaysdata.net)
 
 So guys we have to :
-- [] finish our SAE 1.05 web site
-- [] 
+- [ ] finish our SAE 1.05 web site
+- [ ] do our SAE 1.06 web site
